@@ -1,0 +1,24 @@
+.button.bn{
+  padding: 9px;    
+}
+
+.search-bar.bn{
+    border: none;
+    outline: none;
+    width: 80%;
+}
+    
+
+@media (max-width:340px){
+  .search-bar.bn{
+    display: none;
+  }
+}
+  
+
+
+
+
+
+
+
